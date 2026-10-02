@@ -1,11 +1,11 @@
-# Hey. Sou o Jhonatan.
+# Hey. I'm Jhonatan.
 
-Aviso justo: tenho uma obsessão enorme por **sistemas de baixo nível** e pelo que acontece quando o código chega perto do metal. Tem algo em entender como as coisas funcionam por baixo — memória, registradores, kernel — que me fascina de verdade.
+Fair warning: I have a massive obsession with **low-level systems** and what happens when code gets close to the metal. There's something about understanding how things work underneath — memory, registers, kernel — that genuinely fascinates me.
 
-No momento, estou construindo um kernel de baixa latência, porque queria rodar jogos com latência previsível e não achei nada que resolvesse do jeito que eu queria. É hobby, não é pra pagar conta, mas é onde eu passo a maior parte do tempo livre.
+Right now, I'm building a low-latency kernel, because I wanted to run games with predictable latency and couldn't find anything that solved it the way I wanted. It's a hobby, not a way to pay the bills, but it's where I spend most of my free time.
 
-Enfim, aqui está o que eu construo:
+Anyway, here's what I build:
 
-- **KinetOS** — kernel de baixa latência focado em previsibilidade (p99/p999).
+- **KinetOS** — a low-latency kernel focused on predictability (p99/p999).
 
-E o resto que estiver fixado no meu perfil do GitHub logo abaixo. Dá uma olhada.
+And whatever else I have pinned on my GitHub profile right below. Take a look around.
