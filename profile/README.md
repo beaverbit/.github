@@ -1,3 +1,5 @@
+![Jhonatan](assets/gif.gif)
+
 # Hey. I'm Jhonatan.
 
 Fair warning: I have a massive obsession with **systems programming** and what happens when code gets close to the metal. There's something about understanding how things work underneath — memory, registers, kernel — that genuinely fascinates me.
