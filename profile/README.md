@@ -1,4 +1,6 @@
-![Jhonatan](assets/gif.gif)
+<p align="center">
+  <img src="assets/gif.gif" alt="Jhonatan" width="400">
+</p>
 
 # Hey. I'm Jhonatan.
 
