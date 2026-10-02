@@ -6,7 +6,7 @@ Right now, I'm building a low-latency kernel, because I wanted to run games with
 
 Anyway, here's what I'm building:
 
-- **KinetOS** — a low-latency kernel focused on predictability (p99/p999).
+- **[KinetOS](https://github.com/beaverbit/kinet-os)** — a low-latency kernel focused on predictability (p99/p999).
 
 And whatever else I have pinned on my GitHub profile right below. Take a look around.
 
