@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/assets/gif.gif" alt="Lain" width="400">
+  <img src="https://raw.githubusercontent.com/beaverbit/.github/main/profile/assets/gif.gif" alt="Lain" width="400">
 </p>
 
 # Hey. I'm Jhonatan.
