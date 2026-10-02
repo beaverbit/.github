@@ -28,3 +28,5 @@ And whatever else I have pinned on my GitHub profile right below. Take a look ar
 ![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+
+I am married to an incredible woman.
