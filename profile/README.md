@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/gif.gif" alt="Lain" width="400">
-</p>
+![Lain](profile/assets/gif.gif)
 
 # Hey. I'm Jhonatan.
 
