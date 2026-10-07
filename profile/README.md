@@ -30,5 +30,6 @@ And whatever else I have pinned on my GitHub profile right below. Take a look ar
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beaverbit&theme=dark&hide_border=true&background=1d1f21&ring=2bbc8a&fire=2bbc8a&currStreakLabel=ffffff" alt="Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=beaverbit&theme=dark&hide_border=true&background=1d1f21&ring=2bbc8a&fire=2bbc8a&currStreakLabel=ffffff" alt="Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaverbit&layout=donut&theme=dark&hide_border=true&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc" alt="Linguagens" />
 </div>
