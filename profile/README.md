@@ -28,3 +28,7 @@ And whatever else I have pinned on my GitHub profile right below. Take a look ar
 ![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beaverbit&theme=dark&hide_border=true&background=1d1f21&ring=2bbc8a&fire=2bbc8a&currStreakLabel=ffffff" alt="Streak" />
+</div>
