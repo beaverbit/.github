@@ -3,16 +3,9 @@
 </p>
 
 # Hey. I'm Jhonatan.
+Fair warning: I have a massive obsession with systems programming and what happens when code gets close to the metal. There's something about understanding how things work underneath — memory, registers, kernel — that genuinely fascinates me.
 
-Fair warning: I have a massive obsession with **systems programming** and what happens when code gets close to the metal. There's something about understanding how things work underneath — memory, registers, kernel — that genuinely fascinates me.
-
-Right now, I'm building a low-latency kernel. It's a hobby, but it's where I spend most of my free time.
-
-Anyway, here's what I'm building:
-
-- **[KinetOS](https://github.com/beaverbit/kinet-os)** — a low-latency kernel focused on predictability (p99/p999).
-
-And whatever else I have pinned on my GitHub profile right below. Take a look around.
+I'm also into data engineering — building pipelines, modeling data, and turning raw information into something useful. Same obsession with what happens underneath, just at a different layer.
 
 ---
 
