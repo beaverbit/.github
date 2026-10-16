@@ -31,6 +31,18 @@ at a different layer.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
+---
+
+### Systems Programming (hobby)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=beaverbit&theme=dark&hide_border=true&background=1d1f21&ring=2bbc8a&fire=2bbc8a&currStreakLabel=ffffff" alt="Streak" />
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=beaverbit&layout=donut&theme=dark&hide_border=true&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc" alt="Linguagens" />
