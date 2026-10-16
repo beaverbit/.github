@@ -39,7 +39,7 @@ I also have a massive obsession with systems programming and what happens when c
 ### LeetCode
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ojhonatanls?theme=dark&font=Karma&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
+ <img src="https://leetcard.jacoblin.cool/ojhonatanls?theme=dark&font=Karma&ext=heatmap&border=0&radius=10&bg=1d1f21" alt="LeetCode Stats" />
 </div>
 
 <div align="center">
