@@ -19,6 +19,7 @@ I also have a massive obsession with systems programming and what happens when c
 ### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -35,14 +36,11 @@ I also have a massive obsession with systems programming and what happens when c
 
 ---
 
-### Systems Programming (hobby)
+### LeetCode
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white)
-![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
-![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/ojhonatanls?theme=dark&font=Karma&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
+</div>
 
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=beaverbit&theme=dark&hide_border=true&background=1d1f21&ring=2bbc8a&fire=2bbc8a&currStreakLabel=ffffff" alt="Streak" />
