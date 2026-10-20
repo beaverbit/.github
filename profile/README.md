@@ -3,9 +3,11 @@
 </p>
 
 # Hey. I'm Jhonatan.
-Fair warning: I have a massive obsession with data engineering. Building pipelines, modeling data, and turning raw information into something useful. Understanding how each step works underneath — from ingestion to the analytical layer — is what keeps me coming back to the terminal every day.
+**Fair warning**: I have a massive obsession with data engineering. Building pipelines, modeling data, and turning raw information into something useful. Understanding how each step works underneath, from ingestion to the analytical layer, is what keeps me coming back to the terminal every day.
 
-I also have a massive obsession with systems programming and what happens when code gets close to the metal. There's something about understanding how things work underneath: memory, registers, kernel. That genuinely fascinates me.
+I like to know what happens at every layer: how data arrives (batch or streaming, CDC, idempotency), how it's stored (lake, lakehouse, warehouse, columnar formats), how it's modeled (medallion, star schema, SCD), and how it becomes something consumable at the end. Understanding the mechanism behind each step, the partitioning, the pushdown, the shuffle, the cost of every decision, is what genuinely grips me.
+
+In the end, that's it: taking the raw and delivering something reliable, scalable, and useful. And understanding every gear along the way is what keeps me coming back.
 
 ---
 
