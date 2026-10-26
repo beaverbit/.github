@@ -38,6 +38,6 @@ In the end, that is it: take the raw and deliver something reliable, scalable, a
 ---
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=beaverbit&theme=dark&hide_border=true&background=1d1f21&ring=2bbc8a&fire=2bbc8a&currStreakLabel=ffffff" alt="Streak" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=beaverbit&layout=donut&theme=dark&hide_border=true&bg_color=1d1f21&title_color=ffffff&text_color=c9cacc" alt="Linguagens" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=beaverbit&theme=dark&hide_border=true&background=0d1117&ring=a371f7&fire=a371f7&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=a371f7" alt="Streak" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=beaverbit&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9" alt="Linguagens" />
 </div>
