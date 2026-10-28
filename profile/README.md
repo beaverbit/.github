@@ -34,10 +34,3 @@ In the end, that is it: take the raw and deliver something reliable, scalable, a
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
----
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=beaverbit&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&stroke=FFFFFF" alt="Streak" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=beaverbit&layout=donut&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Linguagens" />
-</div>
