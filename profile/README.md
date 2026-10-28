@@ -2,15 +2,6 @@
   <img src="https://raw.githubusercontent.com/beaverbit/.github/main/profile/assets/gif.gif" alt="Lain" width="400">
 </p>
 
-# Hey. I'm Jhonatan.
-**Fair warning**: I have a considerable obsession with data engineering. Building pipelines, modeling data, and turning raw information into something usable. Understanding how each step works underneath, from ingestion to the analytical layer, is what keeps me coming back to the terminal every day.
-
-I like to know what happens at every layer: how data arrives (batch or streaming, CDC, idempotency), how it is stored (lake, lakehouse, warehouse, columnar formats), how it is modeled (medallion, star schema, SCD), and how it becomes consumable at the end. Understanding the mechanism behind each step, the partitioning, the pushdown, the shuffle, the cost of every decision, is what holds me.
-
-In the end, that is it: take the raw and deliver something reliable, scalable, and useful. Understanding every gear along the way is what keeps me coming back.
-
----
-
 ### Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatanlucassantosofc@gmail.com)
